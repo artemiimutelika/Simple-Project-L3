@@ -28,3 +28,15 @@ A clean and modern HTML/CSS webpage with a responsive design.
 ---
 
 © 2025 My Simple Webpage
+# Proiect Laborator - Informatică Aplicată (USV)
+
+Acest repository conține aplicația web dezvoltată în cadrul laboratorului de Informatică Aplicată, utilizând tehnici moderne de Prompt Engineering cu asistenți AI.
+
+## Tehnologii Utilizate
+* **HTML5** - Structura paginii web.
+* **CSS3 (Grid & Media Queries)** - Stilizarea și designul responsive.
+* **Git / GitHub** - Controlul versiunilor și publicarea codului.
+
+## Structura Proiectului
+* `index.html` - Conține structura paginilor, inclusiv secțiunile `#despre` și `#galerie`.
+* `style.css` - Conține regulile de design, layout-ul de tip grid pe 3 coloane și comportamentul responsive sub 600px.
